@@ -1,0 +1,20 @@
+CADENCE IHNL010718
+
+RF_Lab4 NANDx5_ASAP7_75t_R schematic cds0
+RF_Lab4 INVx7_ASAP7_75t_R schematic cds1
+RF_Lab4 INVx3_ASAP7_75t_R schematic cds2
+RF_Lab4 NANDx1_ASAP7_75t_R schematic cds3
+RF_Lab4 INVx8_ASAP7_75t_R schematic cds4
+RF_Lab4 INVx1_ASAP7_75t_R schematic cds5
+RF_Lab4 NAND3x1_ASAP7_75t_R schematic cds6
+RF_Lab4 Decoder_4x16_ASAP7_75t_R_new schematic cds7
+RF_Lab4 RF_8t_orlat schematic cds8
+RF_Lab4 RF_8t_write schematic cds9
+RF_Lab4 RF_8t_write_buf schematic cds10
+RF_Lab4 RF_8t_RBLkeeper schematic cds11
+RF_Lab4 RF_8t_io schematic cds12
+RF_Lab4 sram_dummy_8t122_0 schematic cds13
+RF_Lab4 sram_8t122_11wideLISD schematic cds14
+RF_Lab4 RF_8t1122_8x1 schematic cds15
+RF_Lab4 RF_8t1122_16x1colgrp schematic cds16
+RF_Lab4 Register_File_new schematic cds17

@@ -1,0 +1,59 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "Register_File_new"
+  repList "auCdl schematic"
+  stopList "auCdl"
+  globalList "vss! vdd!"
+  hierDelim "."
+  netlistDir "/afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/pex"
+ )
+( instViewTable
+ )
+( net
+ )
+( inst
+ )
+( model
+( "RF_Lab4/INVx1_ASAP7_75t_R/schematic" "INVx1_ASAP7_75t_R" )
+( "RF_Lab4/INVx3_ASAP7_75t_R/schematic" "INVx3_ASAP7_75t_R" )
+( "RF_Lab4/RF_8t1122_8x1/schematic" "RF_8t1122_8x1" )
+( "RF_Lab4/RF_8t_orlat/schematic" "RF_8t_orlat" )
+( "RF_Lab4/RF_8t_RBLkeeper/schematic" "RF_8t_RBLkeeper" )
+( "RF_Lab4/INVx8_ASAP7_75t_R/schematic" "INVx8_ASAP7_75t_R" )
+( "RF_Lab4/NANDx5_ASAP7_75t_R/schematic" "NANDx5_ASAP7_75t_R" )
+( "RF_Lab4/Register_File_new/schematic" "Register_File_new" )
+( "RF_Lab4/RF_8t_write_buf/schematic" "RF_8t_write_buf" )
+( "RF_Lab4/sram_8t122_11wideLISD/schematic" "sram_8t122_11wideLISD" )
+( "RF_Lab4/NAND3x1_ASAP7_75t_R/schematic" "NAND3x1_ASAP7_75t_R" )
+( "RF_Lab4/RF_8t1122_16x1colgrp/schematic" "RF_8t1122_16x1colgrp" )
+( "RF_Lab4/RF_8t_io/schematic" "RF_8t_io" )
+( "RF_Lab4/RF_8t_write/schematic" "RF_8t_write" )
+( "RF_Lab4/Decoder_4x16_ASAP7_75t_R_new/schematic" "Decoder_4x16_ASAP7_75t_R_new" )
+( "RF_Lab4/NANDx1_ASAP7_75t_R/schematic" "NANDx1_ASAP7_75t_R" )
+( "RF_Lab4/INVx7_ASAP7_75t_R/schematic" "INVx7_ASAP7_75t_R" )
+( "RF_Lab4/sram_dummy_8t122_0/schematic" "sram_dummy_8t122_0" )
+ )
+( term
+ )
+( param
+ )
+( "Decoder_4x16_ASAP7_75t_R_new" "ihnl/cds7/map" )
+( "NANDx5_ASAP7_75t_R" "ihnl/cds0/map" )
+( "INVx3_ASAP7_75t_R" "ihnl/cds2/map" )
+( "INVx8_ASAP7_75t_R" "ihnl/cds4/map" )
+( "sram_dummy_8t122_0" "ihnl/cds13/map" )
+( "INVx7_ASAP7_75t_R" "ihnl/cds1/map" )
+( "RF_8t_write" "ihnl/cds9/map" )
+( "Register_File_new" "ihnl/cds17/map" )
+( "RF_8t_io" "ihnl/cds12/map" )
+( "RF_8t_write_buf" "ihnl/cds10/map" )
+( "NAND3x1_ASAP7_75t_R" "ihnl/cds6/map" )
+( "RF_8t1122_8x1" "ihnl/cds15/map" )
+( "RF_8t1122_16x1colgrp" "ihnl/cds16/map" )
+( "RF_8t_RBLkeeper" "ihnl/cds11/map" )
+( "NANDx1_ASAP7_75t_R" "ihnl/cds3/map" )
+( "INVx1_ASAP7_75t_R" "ihnl/cds5/map" )
+( "sram_8t122_11wideLISD" "ihnl/cds14/map" )
+( "RF_8t_orlat" "ihnl/cds8/map" )
+ )

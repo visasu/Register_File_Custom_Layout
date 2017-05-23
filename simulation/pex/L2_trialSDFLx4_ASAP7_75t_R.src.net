@@ -1,0 +1,64 @@
+************************************************************************
+* auCdl Netlist:
+* 
+* Library Name:  eee525
+* Top Cell Name: L2_trialSDFLx4_ASAP7_75t_R
+* View Name:     schematic
+* Netlisted on:  Sep 16 10:16:12 2016
+************************************************************************
+
+*.EQUATION
+*.SCALE METER
+*.MEGA
+.PARAM
+
+*.GLOBAL vss!
++        vdd!
+
+*.PIN vss!
+*+    vdd!
+
+************************************************************************
+* Library Name: eee525
+* Cell Name:    L2_trialSDFLx4_ASAP7_75t_R
+* View Name:    schematic
+************************************************************************
+
+.SUBCKT L2_trialSDFLx4_ASAP7_75t_R CLK D0 D1 Qn Sp
+*.PININFO CLK:I D0:I D1:I Sp:I Qn:O
+MM58 SH clkb pd5 vss! nmos_rvt w=27.0n l=20n nfin=1
+MM57 pd5 SS vss! vss! nmos_rvt w=27.0n l=20n nfin=1
+MM55 SS SH vss! vss! nmos_rvt w=27.0n l=20n nfin=1
+MM54 MS clkn SH vss! nmos_rvt w=27.0n l=20n nfin=1
+MM51 MS MH vss! vss! nmos_rvt w=27.0n l=20n nfin=1
+MM48 MH clkn pd3 vss! nmos_rvt w=27.0n l=20n nfin=1
+MM47 pd3 MS vss! vss! nmos_rvt w=27.0n l=20n nfin=1
+MM46 clkb clkn vss! vss! nmos_rvt w=54.0n l=20n nfin=2
+MM44 pd1 net05 vss! vss! nmos_rvt w=81.0n l=20n nfin=3
+MM43 MH clkb pd1 vss! nmos_rvt w=81.0n l=20n nfin=3
+MM38 Sn Sp vss! vss! nmos_rvt w=81.0n l=20n nfin=3
+MM29 net05 Sn net86 vss! nmos_rvt w=81.0n l=20n nfin=3
+MM28 net86 D0 vss! vss! nmos_rvt w=81.0n l=20n nfin=3
+MM2 net05 Sp net84 vss! nmos_rvt w=81.0n l=20n nfin=3
+MM39 clkn CLK vss! vss! nmos_rvt w=54.0n l=20n nfin=2
+MM24 Qn SH vss! vss! nmos_rvt w=324.00n l=20n nfin=12
+MM0 net84 D1 vss! vss! nmos_rvt w=81.0n l=20n nfin=3
+MM60 pd4 SS vdd! vdd! pmos_rvt w=27n l=20n nfin=1
+MM59 SH clkn pd4 vdd! pmos_rvt w=27n l=20n nfin=1
+MM56 SS SH vdd! vdd! pmos_rvt w=27n l=20n nfin=1
+MM53 MS clkb SH vdd! pmos_rvt w=27n l=20n nfin=1
+MM52 MS MH vdd! vdd! pmos_rvt w=27n l=20n nfin=1
+MM50 pd2 MS vdd! vdd! pmos_rvt w=27n l=20n nfin=1
+MM49 MH clkb pd2 vdd! pmos_rvt w=27n l=20n nfin=1
+MM45 clkb clkn vdd! vdd! pmos_rvt w=54.0n l=20n nfin=2
+MM42 MH clkn pu1 vdd! pmos_rvt w=81.0n l=20n nfin=3
+MM41 pu1 net05 vdd! vdd! pmos_rvt w=81.0n l=20n nfin=3
+MM32 Sn Sp vdd! vdd! pmos_rvt w=81.0n l=20n nfin=3
+MM40 clkn CLK vdd! vdd! pmos_rvt w=54.0n l=20n nfin=2
+MM31 net05 D0 net070 vdd! pmos_rvt w=81.0n l=20n nfin=3
+MM30 net070 Sp vdd! vdd! pmos_rvt w=81.0n l=20n nfin=3
+MM27 net070 D1 vdd! vdd! pmos_rvt w=81.0n l=20n nfin=3
+MM26 net05 Sn net070 vdd! pmos_rvt w=81.0n l=20n nfin=3
+MM25 Qn SH vdd! vdd! pmos_rvt w=324.00n l=20n nfin=12
+.ENDS
+

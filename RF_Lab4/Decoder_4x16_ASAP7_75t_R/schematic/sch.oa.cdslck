@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      vsriva10
+HostName                       eecad32.eas.asu.edu
+ProcessIdentifier              19144
+ProcessCreationTime_UTC        1477781928
+ProcessCreationTime_Readable   Sat Oct 29 15:58:48 2016 MST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/RF_Lab4/Decoder_4x16_ASAP7_75t_R/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Oct 29 22:41:33 2016 MST

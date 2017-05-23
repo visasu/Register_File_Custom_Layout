@@ -1,0 +1,8 @@
+//OK 
+//NUMBER_OF_HEADER_LINES: 6
+//VERSION: 1
+//TOKEN_DELIMITER: "
+//TOKEN_SEPARATOR: " "
+//FORMAT: "time" "calibre version" "command line"
+"Sun Oct 30 13:32:07 2016 " "v2015.2_36.27" "-xrc -pdb -rcc -turbo 4 /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/pex/_rcxControl_calibre_asap7.rul_"
+"Sun Oct 30 13:33:16 2016 " "v2015.2_36.27" "-xrc -fmt -all /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/pex/_rcxControl_calibre_asap7.rul_"

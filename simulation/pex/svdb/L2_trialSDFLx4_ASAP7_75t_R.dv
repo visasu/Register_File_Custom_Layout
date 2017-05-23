@@ -1,0 +1,6 @@
+# CALIBRE-LVS DISCREPANCY VIEWER TCL FILE 
+# FILE: svdb/L2_trialSDFLx4_ASAP7_75t_R.dv
+dv_start matched                                  
+dv_cell {L2_trialSDFLx4_ASAP7_75t_R} {L2_trialSDFLx4_ASAP7_75t_R} matched
+dv_obj_count -transformed_nets {15 15} -transformed_inst {15 15} -transformed_port {7 7}
+dv_end

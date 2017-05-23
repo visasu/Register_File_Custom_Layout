@@ -1,0 +1,116 @@
+* Calibre pushdown separate-properties (back-annotation) data
+***************************************
+*
+* These lvs-actionable properties, indexed by DEVICE element(model) will be kept in the netlist:
+*
+* KEEP_PROP_BEGIN
+* KEEP_PROP mn(nmos_lvt) l w nfin
+* KEEP_PROP mn(nmos_rvt) l w nfin
+* KEEP_PROP mn(nmos_slvt) l w nfin
+* KEEP_PROP mn(nmos_sram) l w nfin
+* KEEP_PROP mp(pmos_lvt) l w nfin
+* KEEP_PROP mp(pmos_rvt) l w nfin
+* KEEP_PROP mp(pmos_slvt) l w nfin
+* KEEP_PROP mp(pmos_sram) l w nfin
+* KEEP_PROP_END
+*
+.SUBCKT sram_dummy_8t122_0
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT sram_8t122_11wideLISD
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT RF_8t1122_8x1
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT dummy_interface
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT RF_8t_RBLkeeper
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT RF_8t1122_16x1colgrp
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT RF_16x8cells
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT RF_dummy_interface
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT ICV_1
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT ICV_2
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT ICV_3
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT ICV_4
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT RF_dummy_array
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT Filler_ASAP7_75t_R
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT INVx7_ASAP7_75t_R
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT ICV_5
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT INVx3_ASAP7_75t_R
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT NANDx1_ASAP7_75t_R
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT NANDx5_ASAP7_75t_R
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT ICV_6
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT NAND3x1_ASAP7_75t_R
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT TAPCELL_ASAP7_75t_R
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT INVx8_ASAP7_75t_R
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT Decoder_4x16_ASAP7_75t_R_new
+* nothing transcripted
+.ENDS
+***************************************
+.SUBCKT Register_File_new
+* nothing transcripted
+.ENDS
+***************************************

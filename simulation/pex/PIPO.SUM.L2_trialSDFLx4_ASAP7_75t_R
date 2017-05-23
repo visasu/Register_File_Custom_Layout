@@ -1,0 +1,75 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.5 06/11/2013 19:34 (sjfnl003) $
+          : sub-version  IC6.1.5.500.17 
+Started at: 16-Sep-2016  10:16:11
+User Name : vsriva10
+Host Name : eecad46.eas.asu.edu
+Directory : /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+
+                       Individual Cell Statistics - Basic Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               Instance Array   Polygon  Rect   Path   PathSeg   Text   Line   Dot   Arc   Donut   Ellipse 
+---------------------------------------------------------------------------------------------------------------------------------------
+eee525/L2_trialSDFLx4_ASAP7_75t_R/layout                        0        0       10       394    0      0         9      0      0     0     0       0       
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Individual Cell Statistics - Advanced Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               PRBdy    OtherBdy   AreaBlkg   LayerBlkg  AreaHalo   Row   Marker   CustVia   StdVia   
+---------------------------------------------------------------------------------------------------------------------------------------
+eee525/L2_trialSDFLx4_ASAP7_75t_R/layout                        0        0          0          0          0          0     0        0         0        
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Statistics of Layers 
+---------------------------------------------------------------------------------------------------------------------------------------
+Cadence         Cadence         Stream  Stream   
+Layer           Purpose         Layer   Datatype  Polygon  Rect     Path     Text     Line Dot Arc Donut Ellipse Pathseg
+---------------------------------------------------------------------------------------------------------------------------------------
+M1              pin             19      251       0        0        0        9        0    0   0   0     0      0      
+V0              drawing         18      0         0        102      0        0        0    0   0   0     0      0      
+M1              drawing         19      0         9        33       0        0        0    0   0   0     0      0      
+Pselect         drawing         13      0         0        2        0        0        0    0   0   0     0      0      
+BOUNDARY        drawing         100     0         0        2        0        0        0    0   0   0     0      0      
+well            drawing         1       0         0        2        0        0        0    0   0   0     0      0      
+Active          drawing         11      0         1        25       0        0        0    0   0   0     0      0      
+Nselect         drawing         12      0         0        4        0        0        0    0   0   0     0      0      
+fin             drawing         2       0         0        20       0        0        0    0   0   0     0      0      
+LISD            drawing         17      0         0        61       0        0        0    0   0   0     0      0      
+LIG             drawing         16      0         0        26       0        0        0    0   0   0     0      0      
+M2              drawing         20      0         0        3        0        0        0    0   0   0     0      0      
+Gate            drawing         7       0         0        34       0        0        0    0   0   0     0      0      
+GCut            drawing         10      0         0        4        0        0        0    0   0   0     0      0      
+V1              drawing         21      0         0        11       0        0        0    0   0   0     0      0      
+SDT             drawing         88      0         0        65       0        0        0    0   0   0     0      0      
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Summary of Objects Translated:
+	Scalar Instances:		0
+	Array Instances:		0
+	Polygons:			10
+	Paths:				0
+	Rectangles:			394
+	Lines:				0
+	Arcs:				0
+	Donuts:				0
+	Dots:				0
+	Ellipses:			0
+	Boundaries:			0
+	Area Blockages:			0
+	Layer Blockages:		0
+	Area Halos:			0
+	Markers:			0
+	Rows:				0
+	Standard Vias:			0
+	Custom Vias:			0
+	Pathsegs:			0
+	Text:				9
+	Cells:				1
+Design Libraries: 
+
+DEFINE eee525	/afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/eee525

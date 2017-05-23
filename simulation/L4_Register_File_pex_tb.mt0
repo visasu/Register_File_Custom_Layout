@@ -1,0 +1,4 @@
+$DATA1 SOURCE='HSPICE' VERSION='K-2015.06-2 linux64'
+.TITLE ' '
+ tre_dataout7     temper           alter#          
+  1.179e-10         25.0000        1               

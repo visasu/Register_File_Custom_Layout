@@ -1,0 +1,4 @@
+$DATA1 SOURCE='HSPICE' VERSION='K-2015.06-2 linux64'
+.TITLE ' '
+ ta0_word0        temper           alter#          
+  1.305e-08         25.0000        1               

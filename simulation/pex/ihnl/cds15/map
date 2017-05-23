@@ -1,0 +1,19 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  repList "auCdl schematic"
+  stopList "auCdl"
+  hierDelim "."
+ )
+( net
+( "vdd!" "vdd!" )
+ )
+( inst
+ )
+( model
+ )
+( term
+ )
+( param
+ )
+ )

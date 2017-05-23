@@ -1,0 +1,263 @@
+                  ##################################################
+                  ##                                              ##
+                  ##                 Calibre xRC                  ##
+                  ##                                              ##
+                  ##          Export Lumped Parameters            ##
+                  ##                                              ##
+                  ##################################################
+ 
+ 
+ 
+LAYOUT NAME:              L2_TRIALSDFLX4_ASAP7_75T_R
+RULE FILE NAME:           rules
+CREATION TIME:            Fri Sep 16 10:16:43 2016
+ 
+UNITS:                    Resistance  = ohm
+                          Capacitance = farad
+                          Time        = ns
+ 
+ 
+---------------------------------------------------------------------------------
+CELL NAME:                L2_TRIALSDFLX4_ASAP7_75T_R
+ 
+Netid      R(UpperBound)      Cvalue      %Coupled    RC(UpperBound)   Netname
+---------+---------------+-------------+-------------+--------------+------------
+3                     0.0   5.29908e-17       18.8123            0.0  CLK
+            - Coupled nets
+               N_CLKN_c_8_n,N_CLKN_c_8_n,N_CLKN_c_8_n,N_CLKN_MM39_d,N_CLKN_c_12_n,N_CLKN_c_12_n,N_CLKN_c_12_n
+            - Intrinsic Capacitance
+               4.3022e-17
+            - Coupled capacitance
+               1.77572e-19   netid: N_CLKN_c_8_n
+                1.5311e-18   netid: N_CLKN_c_8_n
+               9.43486e-19   netid: N_CLKN_c_8_n
+               7.77291e-20   netid: N_CLKN_MM39_d
+               4.27029e-19   netid: N_CLKN_c_12_n
+               1.91213e-18   netid: N_CLKN_c_12_n
+               4.89975e-18   netid: N_CLKN_c_12_n
+
+
+4                     0.0   5.22636e-16       17.2457            0.0  CLKN
+            - Coupled nets
+               N_CLK_MM39_g,N_CLK_c_2_p,CLK,CLK,N_CLK_MM39_g,N_CLK_c_2_p,CLK,N_CLKB_c_51_n,N_CLKB_c_51_n,N_CLKB_MM58_g,N_CLKB_MM58_g,N_CLKB_c_55_n,N_CLKB_c_55_n,N_CLKB_c_55_n,N_CLKB_c_55_n,N_CLKB_c_55_n,N_CLKB_c_55_n,N_CLKB_MM46_d,N_CLKB_MM45_d,N_CLKB_MM45_d,N_CLKB_MM45_d,N_CLKB_c_65_n,N_CLKB_c_65_n,N_CLKB_c_65_n,N_CLKB_c_65_n,N_CLKB_c_69_n,N_CLKB_c_69_n,N_CLKB_c_69_n,N_CLKB_c_69_n,N_CLKB_c_69_n,N_CLKB_c_69_n,N_PU1_MM42_s,N_PU1_MM42_s
+            - Intrinsic Capacitance
+               4.32504e-16
+            - Coupled capacitance
+               1.77572e-19   netid: N_CLK_MM39_g
+                1.5311e-18   netid: N_CLK_c_2_p
+               9.43486e-19   netid: CLK
+               7.77291e-20   netid: CLK
+               4.27029e-19   netid: N_CLK_MM39_g
+               1.91213e-18   netid: N_CLK_c_2_p
+               4.89975e-18   netid: CLK
+                1.7276e-18   netid: N_CLKB_c_51_n
+               1.01107e-18   netid: N_CLKB_c_51_n
+               1.75793e-18   netid: N_CLKB_MM58_g
+               7.43063e-19   netid: N_CLKB_MM58_g
+               6.47392e-20   netid: N_CLKB_c_55_n
+               2.20807e-18   netid: N_CLKB_c_55_n
+               9.33338e-19   netid: N_CLKB_c_55_n
+               9.43421e-21   netid: N_CLKB_c_55_n
+               1.98235e-18   netid: N_CLKB_c_55_n
+               5.56844e-20   netid: N_CLKB_c_55_n
+               1.18839e-19   netid: N_CLKB_MM46_d
+               7.27376e-20   netid: N_CLKB_MM45_d
+               5.30429e-20   netid: N_CLKB_MM45_d
+               4.30913e-19   netid: N_CLKB_MM45_d
+                3.1905e-18   netid: N_CLKB_c_65_n
+               5.10433e-18   netid: N_CLKB_c_65_n
+                1.4978e-19   netid: N_CLKB_c_65_n
+               2.29238e-18   netid: N_CLKB_c_65_n
+               1.58436e-18   netid: N_CLKB_c_69_n
+                1.6021e-18   netid: N_CLKB_c_69_n
+               6.77198e-19   netid: N_CLKB_c_69_n
+               2.30546e-19   netid: N_CLKB_c_69_n
+               4.84444e-17   netid: N_CLKB_c_69_n
+               1.36077e-18   netid: N_CLKB_c_69_n
+               2.57009e-18   netid: N_PU1_MM42_s
+               1.78831e-18   netid: N_PU1_MM42_s
+
+
+5                     0.0   1.64691e-16             0            0.0  SP
+            - Coupled nets
+            - Intrinsic Capacitance
+               1.64691e-16
+            - Coupled capacitance
+
+
+6                     0.0   1.54851e-16             0            0.0  SN
+            - Coupled nets
+            - Intrinsic Capacitance
+               1.54851e-16
+            - Coupled capacitance
+
+
+7                     0.0   5.53588e-17             0            0.0  D0
+            - Coupled nets
+            - Intrinsic Capacitance
+               5.53588e-17
+            - Coupled capacitance
+
+
+8                     0.0   5.73783e-17             0            0.0  D1
+            - Coupled nets
+            - Intrinsic Capacitance
+               5.73783e-17
+            - Coupled capacitance
+
+
+9                     0.0   1.62683e-16        20.695            0.0  NET05
+            - Coupled nets
+               
+            - Intrinsic Capacitance
+               1.29016e-16
+            - Coupled capacitance
+               5.04147e-19   netid: vss!
+               4.65205e-18   netid: vss!
+               2.37913e-18   netid: vss!
+                1.2508e-17   netid: vss!
+               1.09955e-18   netid: vss!
+               4.18995e-18   netid: vss!
+               8.00198e-19   netid: vss!
+                6.7922e-19   netid: vss!
+               4.83149e-18   netid: vss!
+               2.02338e-18   netid: vss!
+
+
+10                    0.0   2.79762e-16       27.0963            0.0  CLKB
+            - Coupled nets
+               N_CLKN_MM42_g,N_CLKN_c_16_p,N_CLKN_c_17_p,N_CLKN_MM59_g,N_CLKN_MM42_g,N_CLKN_c_17_p,N_CLKN_MM59_g,N_CLKN_c_12_n,N_CLKN_c_16_p,N_CLKN_c_24_p,N_CLKN_c_12_n,N_CLKN_c_12_n,N_CLKN_c_27_p,N_CLKN_c_16_p,N_CLKN_c_8_n,N_CLKN_c_12_n,N_CLKN_c_27_p,N_CLKN_c_16_p,N_CLKN_MM42_g,N_CLKN_c_17_p,N_CLKN_MM59_g,N_CLKN_c_12_n,N_CLKN_c_16_p,N_CLKN_c_24_p
+            - Intrinsic Capacitance
+               2.03957e-16
+            - Coupled capacitance
+                1.7276e-18   netid: N_CLKN_MM42_g
+               1.01107e-18   netid: N_CLKN_c_16_p
+               1.75793e-18   netid: N_CLKN_c_17_p
+               7.43063e-19   netid: N_CLKN_MM59_g
+               6.47392e-20   netid: N_CLKN_MM42_g
+               2.20807e-18   netid: N_CLKN_c_17_p
+               9.33338e-19   netid: N_CLKN_MM59_g
+               9.43421e-21   netid: N_CLKN_c_12_n
+               1.98235e-18   netid: N_CLKN_c_16_p
+               5.56844e-20   netid: N_CLKN_c_24_p
+               1.18839e-19   netid: N_CLKN_c_12_n
+               7.27376e-20   netid: N_CLKN_c_12_n
+               5.30429e-20   netid: N_CLKN_c_27_p
+               4.30913e-19   netid: N_CLKN_c_16_p
+                3.1905e-18   netid: N_CLKN_c_8_n
+               5.10433e-18   netid: N_CLKN_c_12_n
+                1.4978e-19   netid: N_CLKN_c_27_p
+               2.29238e-18   netid: N_CLKN_c_16_p
+               1.58436e-18   netid: N_CLKN_MM42_g
+                1.6021e-18   netid: N_CLKN_c_17_p
+               6.77198e-19   netid: N_CLKN_MM59_g
+               2.30546e-19   netid: N_CLKN_c_12_n
+               4.84444e-17   netid: N_CLKN_c_16_p
+               1.36077e-18   netid: N_CLKN_c_24_p
+
+
+11                    0.0   1.35197e-16             0            0.0  MS
+            - Coupled nets
+            - Intrinsic Capacitance
+               1.35197e-16
+            - Coupled capacitance
+
+
+12                    0.0   1.32682e-16       9.99844            0.0  MH
+            - Coupled nets
+               N_PU1_MM42_s,N_PU1_MM42_s,N_PD2_MM50_d,N_PD2_MM50_d
+            - Intrinsic Capacitance
+               1.19416e-16
+            - Coupled capacitance
+               5.11366e-18   netid: N_PU1_MM42_s
+               2.41256e-19   netid: N_PU1_MM42_s
+               5.27361e-18   netid: N_PD2_MM50_d
+               2.63765e-18   netid: N_PD2_MM50_d
+
+
+13                    0.0   1.07052e-16             0            0.0  SS
+            - Coupled nets
+            - Intrinsic Capacitance
+               1.07052e-16
+            - Coupled capacitance
+
+
+14                    0.0   3.55367e-16       2.82181            0.0  SH
+            - Coupled nets
+               N_PD5_MM57_d,N_PD5_MM57_d,N_PD5_MM57_d,N_PD4_MM60_d,N_PD4_MM60_d,N_PD4_MM60_d
+            - Intrinsic Capacitance
+               3.45339e-16
+            - Coupled capacitance
+               3.96568e-18   netid: N_PD5_MM57_d
+               2.48218e-18   netid: N_PD5_MM57_d
+               3.43449e-19   netid: N_PD5_MM57_d
+               2.19741e-19   netid: N_PD4_MM60_d
+               2.53314e-18   netid: N_PD4_MM60_d
+                4.8361e-19   netid: N_PD4_MM60_d
+
+
+16                    0.0   1.64352e-16             0            0.0  QN
+            - Coupled nets
+            - Intrinsic Capacitance
+               1.64352e-16
+            - Coupled capacitance
+
+
+19                    0.0   4.10447e-17             0            0.0  PD1
+            - Coupled nets
+            - Intrinsic Capacitance
+               4.10447e-17
+            - Coupled capacitance
+
+
+20                    0.0   1.80932e-17       53.6848            0.0  PU1
+            - Coupled nets
+               N_CLKN_MM42_g,N_CLKN_c_16_p,N_MH_c_75_p,N_MH_c_76_p
+            - Intrinsic Capacitance
+               8.37992e-18
+            - Coupled capacitance
+               2.57009e-18   netid: N_CLKN_MM42_g
+               1.78831e-18   netid: N_CLKN_c_16_p
+               5.11366e-18   netid: N_MH_c_75_p
+               2.41256e-19   netid: N_MH_c_76_p
+
+
+21                    0.0    3.6865e-17       21.4601            0.0  PD2
+            - Coupled nets
+               N_MH_c_75_p,N_MH_c_76_p
+            - Intrinsic Capacitance
+               2.89538e-17
+            - Coupled capacitance
+               5.27361e-18   netid: N_MH_c_75_p
+               2.63765e-18   netid: N_MH_c_76_p
+
+
+22                    0.0   3.19207e-17       21.2756            0.0  PD5
+            - Coupled nets
+               N_SH_c_79_p,N_SH_c_80_p,N_SH_c_81_p
+            - Intrinsic Capacitance
+               2.51294e-17
+            - Coupled capacitance
+               3.96568e-18   netid: N_SH_c_79_p
+               2.48218e-18   netid: N_SH_c_80_p
+               3.43449e-19   netid: N_SH_c_81_p
+
+
+23                    0.0   9.68416e-18       33.4204            0.0  PD4
+            - Coupled nets
+               N_SH_c_82_p,N_SH_c_83_p,N_SH_c_84_p
+            - Intrinsic Capacitance
+               6.44767e-18
+            - Coupled capacitance
+               2.19741e-19   netid: N_SH_c_82_p
+               2.53314e-18   netid: N_SH_c_83_p
+                4.8361e-19   netid: N_SH_c_84_p
+
+
+24                    0.0   2.25121e-18             0            0.0  PD3
+            - Coupled nets
+            - Intrinsic Capacitance
+               2.25121e-18
+            - Coupled capacitance
+
+

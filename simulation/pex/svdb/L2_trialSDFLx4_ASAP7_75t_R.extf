@@ -1,0 +1,10 @@
+# Automagically generated file: Please do not edit!
+lvs_ExtfVersion 3
+lvs_ExtRunTimes 1474046176 1474046186
+lvs_ExtOutFile RUNDIR /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/pex
+lvs_ExtOutFile RULES_FILE /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/pex/_rcxControl_calibre_asap7.rul_
+lvs_ExtInfoExtSummary {0 0 0 0 0 0 0 0 0 0 0}
+lvs_ExtInfoDfmSummary {0}
+lvs_ExtOutFile LAYOUT_NETLIST /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/pex/svdb/L2_trialSDFLx4_ASAP7_75t_R.sp
+lvs_ExtOutFile EXTRACTION_REPORT L2_trialSDFLx4_ASAP7_75t_R.lvs.report.ext
+lvs_ExtOutFile LAYOUT_PDSP {  svdb/L2_trialSDFLx4_ASAP7_75t_R.pdsp }

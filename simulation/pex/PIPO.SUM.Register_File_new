@@ -1,0 +1,130 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.5 06/11/2013 19:34 (sjfnl003) $
+          : sub-version  IC6.1.5.500.17 
+Started at: 30-Oct-2016  13:31:43
+User Name : vsriva10
+Host Name : eecad32.eas.asu.edu
+Directory : /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+
+                       Individual Cell Statistics - Basic Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               Instance Array   Polygon  Rect   Path   PathSeg   Text   Line   Dot   Arc   Donut   Ellipse 
+---------------------------------------------------------------------------------------------------------------------------------------
+RF_Lab4/dummy_interface/layout  0        0       0        21     0      0         0      0      0     0     0       0       
+RF_Lab4/sram_8t122_11tapcell/layout                             0        0       0        80     0      0         2      0      0     0     0       0       
+RF_Lab4/RF_8t_RBLkeeper/layout  0        0       0        132    0      0         7      0      0     0     0       0       
+RF_Lab4/RF_8t_write_buf/layout  0        0       0        278    0      0         15     0      0     0     0       0       
+RF_Lab4/TAPCELL_ASAP7_75t_R/layout                              0        0       0        43     0      0         2      0      0     0     0       0       
+RF_Lab4/RF_8t_orlat/layout      0        0       2        355    0      0         6      0      0     0     0       0       
+RF_Lab4/NANDx5_ASAP7_75t_R/layout                               0        0       0        66     0      0         5      0      0     0     0       0       
+RF_Lab4/Filler_ASAP7_75t_R/layout                               0        0       0        33     0      0         0      0      0     0     0       0       
+RF_Lab4/RF_8t1122_16x1colgrp/layout                             5        0       0        30     0      0         49     0      0     0     0       0       
+RF_Lab4/Register_File_new/layout                                6        0       0        408    0      0         46     0      0     0     0       0       
+RF_Lab4/sram_dummy_8t122_0/layout                               0        0       1        81     0      0         10     0      0     0     0       0       
+RF_Lab4/INVx8_ASAP7_75t_R/layout                                0        0       0        53     0      0         4      0      0     0     0       0       
+RF_Lab4/INVx7_ASAP7_75t_R/layout                                0        0       1        50     0      0         4      0      0     0     0       0       
+RF_Lab4/INVx1_ASAP7_75t_R/layout                                0        0       0        53     0      0         4      0      0     0     0       0       
+RF_Lab4/NAND3x1_ASAP7_75t_R/layout                              0        0       0        73     0      0         6      0      0     0     0       0       
+RF_Lab4/RF_dummy_interface/layout                               0        0       0        19     0      0         0      0      0     0     0       0       
+RF_Lab4/NANDx1_ASAP7_75t_R/layout                               0        0       0        64     0      0         5      0      0     0     0       0       
+RF_Lab4/RF_8t_write/layout      0        0       0        112    0      0         9      0      0     0     0       0       
+RF_Lab4/RF_16x8cells/layout     8        0       0        2      0      0         0      0      0     0     0       0       
+RF_Lab4/Decoder_4x16_ASAP7_75t_R_new/layout                     65       0       0        249    0      0         23     0      0     0     0       0       
+RF_Lab4/RF_8t1122_8x1/layout    15       0       0        0      0      0         24     0      0     0     0       0       
+RF_Lab4/INVx3_ASAP7_75t_R/layout                                0        0       0        53     0      0         4      0      0     0     0       0       
+RF_Lab4/RF_dummy_array/layout   50       0       0        0      0      0         0      0      0     0     0       0       
+RF_Lab4/RF_8t_io/layout         5        0       0        0      0      0         13     0      0     0     0       0       
+RF_Lab4/sram_8t122_11wideLISD/layout                            0        0       1        103    0      0         8      0      0     0     0       0       
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Individual Cell Statistics - Advanced Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               PRBdy    OtherBdy   AreaBlkg   LayerBlkg  AreaHalo   Row   Marker   CustVia   StdVia   
+---------------------------------------------------------------------------------------------------------------------------------------
+RF_Lab4/dummy_interface/layout  0        0          0          0          0          0     0        0         0        
+RF_Lab4/sram_8t122_11tapcell/layout                             0        0          0          0          0          0     0        0         0        
+RF_Lab4/RF_8t_RBLkeeper/layout  0        0          0          0          0          0     0        0         0        
+RF_Lab4/RF_8t_write_buf/layout  0        0          0          0          0          0     0        0         0        
+RF_Lab4/TAPCELL_ASAP7_75t_R/layout                              0        0          0          0          0          0     0        0         0        
+RF_Lab4/RF_8t_orlat/layout      0        0          0          0          0          0     0        0         0        
+RF_Lab4/NANDx5_ASAP7_75t_R/layout                               0        0          0          0          0          0     0        0         0        
+RF_Lab4/Filler_ASAP7_75t_R/layout                               0        0          0          0          0          0     0        0         0        
+RF_Lab4/RF_8t1122_16x1colgrp/layout                             0        0          0          0          0          0     0        0         0        
+RF_Lab4/Register_File_new/layout                                0        0          0          0          0          0     0        0         0        
+RF_Lab4/sram_dummy_8t122_0/layout                               0        0          0          0          0          0     0        0         0        
+RF_Lab4/INVx8_ASAP7_75t_R/layout                                0        0          0          0          0          0     0        0         0        
+RF_Lab4/INVx7_ASAP7_75t_R/layout                                0        0          0          0          0          0     0        0         0        
+RF_Lab4/INVx1_ASAP7_75t_R/layout                                0        0          0          0          0          0     0        0         0        
+RF_Lab4/NAND3x1_ASAP7_75t_R/layout                              0        0          0          0          0          0     0        0         0        
+RF_Lab4/RF_dummy_interface/layout                               0        0          0          0          0          0     0        0         0        
+RF_Lab4/NANDx1_ASAP7_75t_R/layout                               0        0          0          0          0          0     0        0         0        
+RF_Lab4/RF_8t_write/layout      0        0          0          0          0          0     0        0         0        
+RF_Lab4/RF_16x8cells/layout     0        0          0          0          0          0     0        0         0        
+RF_Lab4/Decoder_4x16_ASAP7_75t_R_new/layout                     0        0          0          0          0          0     0        0         0        
+RF_Lab4/RF_8t1122_8x1/layout    0        0          0          0          0          0     0        0         0        
+RF_Lab4/INVx3_ASAP7_75t_R/layout                                0        0          0          0          0          0     0        0         0        
+RF_Lab4/RF_dummy_array/layout   0        0          0          0          0          0     0        0         0        
+RF_Lab4/RF_8t_io/layout         0        0          0          0          0          0     0        0         0        
+RF_Lab4/sram_8t122_11wideLISD/layout                            0        0          0          0          0          0     0        0         0        
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Statistics of Layers 
+---------------------------------------------------------------------------------------------------------------------------------------
+Cadence         Cadence         Stream  Stream   
+Layer           Purpose         Layer   Datatype  Polygon  Rect     Path     Text     Line Dot Arc Donut Ellipse Pathseg
+---------------------------------------------------------------------------------------------------------------------------------------
+M1              pin             19      251       0        0        0        91       0    0   0   0     0      0      
+V0              drawing         18      0         0        293      0        0        0    0   0   0     0      0      
+SRAMVT          drawing         110     0         0        2        0        0        0    0   0   0     0      0      
+M1              drawing         19      0         4        196      0        0        0    0   0   0     0      0      
+SRAMDRC         drawing         99      0         0        4        0        0        0    0   0   0     0      0      
+Pselect         drawing         13      0         0        20       0        0        0    0   0   0     0      0      
+BOUNDARY        drawing         100     0         0        18       0        0        0    0   0   0     0      0      
+SDT             drawing         88      0         0        121      0        0        0    0   0   0     0      0      
+Active          drawing         11      0         1        53       0        0        0    0   0   0     0      0      
+Nselect         drawing         12      0         0        20       0        0        0    0   0   0     0      0      
+M3              drawing         30      0         0        147      0        0        0    0   0   0     0      0      
+M3              pin             30      251       0        0        0        73       0    0   0   0     0      0      
+GCut            drawing         10      0         0        37       0        0        0    0   0   0     0      0      
+LISD            drawing         17      0         0        123      0        0        0    0   0   0     0      0      
+LIG             drawing         16      0         0        72       0        0        0    0   0   0     0      0      
+M2              pin             20      251       0        0        0        74       0    0   0   0     0      0      
+V2              drawing         25      0         0        95       0        0        0    0   0   0     0      0      
+M2              drawing         20      0         0        188      0        0        0    0   0   0     0      0      
+Gate            drawing         7       0         0        87       0        0        0    0   0   0     0      0      
+M2              label           20      237       0        0        0        5        0    0   0   0     0      0      
+fin             drawing         2       0         0        492      0        0        0    0   0   0     0      0      
+V1              drawing         21      0         0        373      0        2        0    0   0   0     0      0      
+well            drawing         1       0         0        17       0        1        0    0   0   0     0      0      
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Summary of Objects Translated:
+	Scalar Instances:		154
+	Array Instances:		0
+	Polygons:			5
+	Paths:				0
+	Rectangles:			2358
+	Lines:				0
+	Arcs:				0
+	Donuts:				0
+	Dots:				0
+	Ellipses:			0
+	Boundaries:			0
+	Area Blockages:			0
+	Layer Blockages:		0
+	Area Halos:			0
+	Markers:			0
+	Rows:				0
+	Standard Vias:			0
+	Custom Vias:			0
+	Pathsegs:			0
+	Text:				246
+	Cells:				25
+Design Libraries: 
+
+DEFINE RF_Lab4	/afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/RF_Lab4

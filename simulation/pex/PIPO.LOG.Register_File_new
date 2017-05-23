@@ -1,0 +1,79 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.5 06/11/2013 19:34 (sjfnl003) $
+          : sub-version  IC6.1.5.500.17 
+Started at: 30-Oct-2016  13:31:43
+User Name : vsriva10
+Host Name : eecad32.eas.asu.edu
+Directory : /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+WARNING (XSTRM-20): Output Stream file '/afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/pex/Register_File_new.calibre.db' already exists. It will be overwritten.
+INFO (XSTRM-288): The automatic layer mapping is done by StreamOut and the xStrmOut_layerMap.txt file is generated. This is because either the layer mapping is not provided or the XST_AUTO_LM value is used with the -layerMap option.
+INFO (XSTRM-162): You have not used the viaMap option. If the OpenAccess design has native oaVia instances, use the -viaMap option for preserving oaVia instances in a Stream Out - Stream In round trip. Using the -viaMap option improves performance and VM usage of applications using the Streamed-In design.  For details on the viaMap option, refer to the "Design Data Translator's Reference" guide for XStream.
+
+Summary of Options :
+library                                 RF_Lab4
+strmFile                                /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/pex/Register_File_new.calibre.db
+topCell                                 Register_File_new
+view                                    layout
+runDir                                  /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/pex/
+logFile                                 PIPO.LOG.Register_File_new
+summaryFile                             PIPO.SUM.Register_File_new
+case                                    Preserve
+convertDot                              node
+
+INFO (XSTRM-223): 1. Translating cellView RF_Lab4/INVx7_ASAP7_75t_R/layout as STRUCTURE INVx7_ASAP7_75t_R
+INFO (XSTRM-180): You have not used the objectMap option. The design has instance(s) of at least one of following OpenAccess objects: oaBlockage, oaBoundary, oaRow, and oaMarker. Any information about these objects will not be translated into the generated stream file. Use the objectMap option to translate/preserve these objects using XStream. For details on the objectMap option, refer to the "Design Data Translator's Reference" guide for XStream.
+INFO (XSTRM-223): 2. Translating cellView RF_Lab4/NANDx1_ASAP7_75t_R/layout as STRUCTURE NANDx1_ASAP7_75t_R
+INFO (XSTRM-223): 3. Translating cellView RF_Lab4/INVx3_ASAP7_75t_R/layout as STRUCTURE INVx3_ASAP7_75t_R
+INFO (XSTRM-223): 4. Translating cellView RF_Lab4/NANDx5_ASAP7_75t_R/layout as STRUCTURE NANDx5_ASAP7_75t_R
+INFO (XSTRM-223): 5. Translating cellView RF_Lab4/INVx8_ASAP7_75t_R/layout as STRUCTURE INVx8_ASAP7_75t_R
+INFO (XSTRM-223): 6. Translating cellView RF_Lab4/Filler_ASAP7_75t_R/layout as STRUCTURE Filler_ASAP7_75t_R
+INFO (XSTRM-223): 7. Translating cellView RF_Lab4/TAPCELL_ASAP7_75t_R/layout as STRUCTURE TAPCELL_ASAP7_75t_R
+INFO (XSTRM-223): 8. Translating cellView RF_Lab4/INVx1_ASAP7_75t_R/layout as STRUCTURE INVx1_ASAP7_75t_R
+INFO (XSTRM-223): 9. Translating cellView RF_Lab4/NAND3x1_ASAP7_75t_R/layout as STRUCTURE NAND3x1_ASAP7_75t_R
+INFO (XSTRM-223): 10. Translating cellView RF_Lab4/Decoder_4x16_ASAP7_75t_R_new/layout as STRUCTURE Decoder_4x16_ASAP7_75t_R_new
+INFO (XSTRM-223): 11. Translating cellView RF_Lab4/RF_8t_write/layout as STRUCTURE RF_8t_write
+INFO (XSTRM-223): 12. Translating cellView RF_Lab4/RF_8t_write_buf/layout as STRUCTURE RF_8t_write_buf
+INFO (XSTRM-223): 13. Translating cellView RF_Lab4/RF_8t_RBLkeeper/layout as STRUCTURE RF_8t_RBLkeeper
+INFO (XSTRM-223): 14. Translating cellView RF_Lab4/RF_8t_orlat/layout as STRUCTURE RF_8t_orlat
+INFO (XSTRM-223): 15. Translating cellView RF_Lab4/RF_8t_io/layout as STRUCTURE RF_8t_io
+INFO (XSTRM-223): 16. Translating cellView RF_Lab4/dummy_interface/layout as STRUCTURE dummy_interface
+INFO (XSTRM-223): 17. Translating cellView RF_Lab4/sram_dummy_8t122_0/layout as STRUCTURE sram_dummy_8t122_0
+INFO (XSTRM-223): 18. Translating cellView RF_Lab4/sram_8t122_11tapcell/layout as STRUCTURE sram_8t122_11tapcell
+INFO (XSTRM-223): 19. Translating cellView RF_Lab4/sram_8t122_11wideLISD/layout as STRUCTURE sram_8t122_11wideLISD
+INFO (XSTRM-223): 20. Translating cellView RF_Lab4/RF_8t1122_8x1/layout as STRUCTURE RF_8t1122_8x1
+INFO (XSTRM-223): 21. Translating cellView RF_Lab4/RF_8t1122_16x1colgrp/layout as STRUCTURE RF_8t1122_16x1colgrp
+INFO (XSTRM-223): 22. Translating cellView RF_Lab4/RF_16x8cells/layout as STRUCTURE RF_16x8cells
+INFO (XSTRM-223): 23. Translating cellView RF_Lab4/RF_dummy_interface/layout as STRUCTURE RF_dummy_interface
+INFO (XSTRM-223): 24. Translating cellView RF_Lab4/RF_dummy_array/layout as STRUCTURE RF_dummy_array
+INFO (XSTRM-223): 25. Translating cellView RF_Lab4/Register_File_new/layout as STRUCTURE Register_File_new
+
+Summary of Objects Translated:
+	Scalar Instances:                       154
+	Array Instances:                        0
+	Polygons:                               5
+	Paths:                                  0
+	Rectangles:                             2358
+	Lines:                                  0
+	Arcs:                                   0
+	Donuts:                                 0
+	Dots:                                   0
+	Ellipses:                               0
+	Boundaries:                             0
+	Area Blockages:                         0
+	Layer Blockages:                        0
+	Area Halos:                             0
+	Markers:                                0
+	Rows:                                   0
+	Standard Vias                           0
+	Custom Vias:                            0
+	Pathsegs:                               0
+	Text:                                   246
+	Cells:                                  25
+
+Elapsed Time: 0.4s   User Time: 0.2s   CPU Time: 0.0s   Peak VM: 387KB
+INFO (XSTRM-234): Translation completed. '0' error(s) and '1' warning(s) found.

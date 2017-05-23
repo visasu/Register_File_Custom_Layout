@@ -1,0 +1,9 @@
+# Automagically generated file: Please do not edit!
+lvs_LvsOutFile RUNDIR /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/pex
+lvs_LvsfVersion 2
+lvs_LvsInputSummary {0 0 0}
+lvs_LvsComparisonSummary {3 0 0 0}
+lvs_LvsOutFile LVS_REPORT Register_File_new.lvs.report
+lvs_LvsOutFile SOURCE_NETLIST /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/pex/Register_File_new.src.net
+lvs_LvsOutFile RULES_FILE /afs/asu.edu/users/v/s/r/vsriva10/asap7_rundir/pex/_rcxControl_calibre_asap7.rul_
+lvs_LvsRunTimes 1477859523 1477859523
